@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on exciting new projects.
 - 🌱 I’m always learning and exploring new technologies.
-- 💬 Ask me about Python, C#, JavaScript, PostgreSQL, and Java.
 
 ---
 
