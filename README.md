@@ -4,8 +4,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on exciting new projects.
-- 🌱 I’m always learning and exploring new technologies.
+- 🔭 I’m currently learning Go, and React.
 
 ---
 
