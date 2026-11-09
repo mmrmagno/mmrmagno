@@ -1,16 +1,10 @@
-## Hi there, I'm Marc!  👋
-
----
-
-## About Me
-
-- 🔭 I’m currently learning Go, and React.
-
----
-
-## Technologies I Use
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-
----
+<div align="center">
+  <h1>Hi there, I'm Marcos</h1>
+  <p>Building random things</p>
+  <img src="assets/xwing.gif" width="480" alt="Spinning ASCII X-wing">
+  <p>
+    <a href="https://marc-os.com/blog">Blog</a> ·
+    <a href="https://marc-os.com/projects">Projects</a> ·
+    <a href="https://marc-os.com">Website</a>
+  </p>
+</div>
