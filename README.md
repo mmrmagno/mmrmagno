@@ -5,6 +5,7 @@
   <p>
     <a href="https://marc-os.com/blog">Blog</a> ·
     <a href="https://marc-os.com/projects">Projects</a> ·
+    <a href="https://marc-os.com/about">About</a> ·
     <a href="https://marc-os.com">Website</a>
   </p>
 </div>
